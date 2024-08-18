@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  navbar:
+    right:
+      - text: "About Me"
+        href: about.qmd
+      - icon: twitter
+        href: https://x.com/suleimanmusty78?lang=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/suleiman-mustapha-81317a15b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      - icon: envelope
+        href: "mailto:suleiman.mustapha@rothamsted.ac.uk"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual

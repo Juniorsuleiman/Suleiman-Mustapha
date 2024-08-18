@@ -1,0 +1,12 @@
+---
+title: "Suleiman Mustapha"
+listing:
+  contents: posts
+  sort: false
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
