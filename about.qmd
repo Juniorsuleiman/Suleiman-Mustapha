@@ -5,6 +5,9 @@ about:
   image-title: "Suleiman Mustapha"
   template: trestles
   links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=jm_GUCcAAAAJ&hl=en
     - icon: twitter
       text: Twitter
       href: https://x.com/suleimanmusty78?lang=en
@@ -16,7 +19,6 @@ about:
       href: "mailto:suleiman.mustapha@rothamsted.ac.uk"
 ---
 
-I have a broad interested in the chemical interactions that shape the relationships between plants and their herbivores, as well as the complex dynamics within herbivore communities and their interactions with higher trophic levels. My research sits at the crossroads of chemical ecology, integrated pest management (IPM) and biological control of crop pests. 
+I have a broad interested in the chemical interactions that shape the relationships between plants and their herbivores, as well as the complex dynamics within herbivore communities and their interactions with higher trophic levels. My research sits at the crossroads of chemical ecology, integrated pest management (IPM) and biological control of crop pests.
 
-My work encompasses a diverse range of topics, from exploring the recruitment of natural enemies through the use of synthetic herbivore-induced plant volatiles (HIPVs) to investigating the behavioural preferences of aphids in response to volatile cues emitted by plants under herbivory by conspecifics and heterospecific. 
-Currently, I am focused on developing a push-pull strategy for managing establishment pests in oilseed rape, a critical global source of vegetable oil and protein meal. My research specifically targets the cabbage stem flea beetle (*Psylliodes chrysocephala*) and the grey field slug (*Deroceras reticulatum*), both of which pose significant threats to the crop establishment and yield. By studying the behavioural responses of these pests to various stimuli and exploring the potential of natural and synthetic lures and deterrents, I aim to devise innovative, environmentally friendly solutions to enhance crop protection.
+My work encompasses a diverse range of topics, from exploring the recruitment of natural enemies through the use of synthetic herbivore-induced plant volatiles (HIPVs) to investigating the behavioural preferences of aphids in response to volatile cues emitted by plants under herbivory by conspecifics and heterospecific. Currently, I am focused on developing a push-pull strategy for managing establishment pests in oilseed rape, a critical global source of vegetable oil and protein meal. My research specifically targets the cabbage stem flea beetle (*Psylliodes chrysocephala*) and the grey field slug (*Deroceras reticulatum*), both of which pose significant threats to the crop establishment and yield. By studying the behavioural responses of these pests to various stimuli and exploring the potential of natural and synthetic lures and deterrents, I aim to devise innovative, environmentally friendly solutions to enhance crop protection.

@@ -5,9 +5,12 @@ project:
 website:
   title: "Home"
   navbar:
-    right:
+    left:
       - text: "About Me"
         href: about.qmd
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?user=jm_GUCcAAAAJ&hl=en
       - icon: twitter
         href: https://x.com/suleimanmusty78?lang=en
       - icon: linkedin
